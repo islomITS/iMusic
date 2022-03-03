@@ -191,7 +191,6 @@ function PlayingNow() {
             allLiTags[j].classList.remove("playing");
             let adDuration = audioTag.getAttribute("t-duration");
             audioTag.innerText = adDuration;
-            musicList.classList.remove("show");
         }
         if (allLiTags[j].getAttribute("li-index") == musicIndex) {
             allLiTags[j].classList.add("playing");
