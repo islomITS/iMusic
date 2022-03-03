@@ -74,7 +74,7 @@ let allMusic = [
     {
     name: "Vakhid ft. Sakhievvv ft. Yorka - AKKURATNIY BOLA",
     artist: "Vakhid ft. Sakhievvv ft. Yorka",
-    src: "music-13",
+    src: "msuic-13",
     img: "music-icon",
 },
     {
